@@ -4,8 +4,8 @@ This repository contains my solutions to selected problems from <a href="https:/
 The folder for each day contains (for both part 1 and part 2):
 <ul>
     <li> The solution code </li>
-    <li> The input file </li>
-    <li> The output file </li>
+    <li> The puzzle input file </li>
+    <li> The output file created </li>
 </ul>
 
 Along with a README file with the task instructions.
