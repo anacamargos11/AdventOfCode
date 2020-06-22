@@ -1,3 +1,7 @@
+The first half of this puzzle is complete! It provides one gold star: *
+
+----------------------------------------------------------------------------------------------------------------------------
+
 <h1>--- Day 12: The N-Body Problem ---</h1>
 
 <h2>--- Part One ---</h2>
